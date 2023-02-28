@@ -7,4 +7,4 @@ Our CSS linter is failing. Read the test output and update the style.css file to
 `npm install`
 
 ### Run test  
-`npx stylelint "**/*.css"
+`npx stylelint "**/*.css"`
