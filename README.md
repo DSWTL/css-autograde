@@ -1,4 +1,4 @@
-# simple-css-lint-demo
+# CSS-Lint-HW
 
 ## Assignment
 Our CSS linter is failing. Read the test output and update the style.css file to make the tests pass.
@@ -7,7 +7,4 @@ Our CSS linter is failing. Read the test output and update the style.css file to
 `npm install`
 
 ### Run test  
-`npx stylelint "**/*.css"`
-
-## Resources
-To learn more about how stylelint is set up here, or how to customize the configuration, see the [stylelint Getting Started Guide](https://stylelint.io/user-guide/get-started)
+`npx stylelint "**/*.css"
